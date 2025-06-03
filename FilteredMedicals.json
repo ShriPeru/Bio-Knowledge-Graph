@@ -8,19 +8,19 @@
       "count": 3
     },
     {
-      "word": "poorercognition",
+      "word": "poorer cognition",
       "entity_group": "Sign_symptom",
       "avg_score": 0.7178500000000001,
       "count": 1
     },
     {
-      "word": "sleep improvementtherapies",
+      "word": "sleep improvement the rapies",
       "entity_group": "Sign_symptom",
       "avg_score": 0.5998602000000001,
       "count": 1
     },
     {
-      "word": "olderadults",
+      "word": "older adults",
       "entity_group": "Subject",
       "avg_score": 0.6591643,
       "count": 1
@@ -38,13 +38,13 @@
       "count": 1
     },
     {
-      "word": "physicalactivity",
+      "word": "physical activity",
       "entity_group": "Activity",
       "avg_score": 0.3938832,
       "count": 1
     },
     {
-      "word": "cognitionolderadults",
+      "word": "cognition older adults",
       "entity_group": "Subject",
       "avg_score": 0.7490613166666668,
       "count": 1
@@ -74,13 +74,13 @@
       "count": 1
     },
     {
-      "word": "neurognition",
+      "word": "neuro gnition",
       "entity_group": "Sign_symptom",
       "avg_score": 0.761820025,
       "count": 1
     },
     {
-      "word": "ly uniredolder adults",
+      "word": "ly un ired older adults",
       "entity_group": "Sign_symptom",
       "avg_score": 0.7051176166666666,
       "count": 1
@@ -104,7 +104,7 @@
       "count": 1
     },
     {
-      "word": "physicalactivity",
+      "word": "physical activity",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.840786845,
       "count": 1
@@ -170,7 +170,7 @@
       "count": 1
     },
     {
-      "word": "lowersleep",
+      "word": "lower sleep",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.7730725,
       "count": 1
@@ -212,7 +212,7 @@
       "count": 1
     },
     {
-      "word": "evensmall",
+      "word": "even small",
       "entity_group": "Severity",
       "avg_score": 0.93964961,
       "count": 1
@@ -224,13 +224,13 @@
       "count": 1
     },
     {
-      "word": "light intensityphysical activity",
+      "word": "light intensity physical activity",
       "entity_group": "Sign_symptom",
       "avg_score": 0.84493768,
       "count": 1
     },
     {
-      "word": "moderatevigorousphysical activity",
+      "word": "moderate vigorous physical activity",
       "entity_group": "Sign_symptom",
       "avg_score": 0.5417752733333333,
       "count": 1
@@ -242,13 +242,13 @@
       "count": 1
     },
     {
-      "word": "decliningspatial working memoryw",
+      "word": "declining spatial working memory w",
       "entity_group": "Lab_value",
       "avg_score": 0.7971279466666666,
       "count": 1
     },
     {
-      "word": "adsleep disturbance",
+      "word": "ad sleep disturbance",
       "entity_group": "Sign_symptom",
       "avg_score": 0.82905775,
       "count": 1
@@ -272,7 +272,7 @@
       "count": 2
     },
     {
-      "word": "eye movementsleep deprivation",
+      "word": "eye movement sleep deprivation",
       "entity_group": "Sign_symptom",
       "avg_score": 0.8070548,
       "count": 1
@@ -284,7 +284,7 @@
       "count": 1
     },
     {
-      "word": "anxiety - like behavior6 - month - oldtriple trans",
+      "word": "anxiety - like behavior 6 - month - old triple trans",
       "entity_group": "Sign_symptom",
       "avg_score": 0.8197819000000001,
       "count": 1
@@ -320,13 +320,13 @@
       "count": 1
     },
     {
-      "word": "remsdincreased",
+      "word": "re m sd increased",
       "entity_group": "Lab_value",
       "avg_score": 0.6888895825,
       "count": 1
     },
     {
-      "word": "reducedanxiety",
+      "word": "reduced anxiety",
       "entity_group": "Sign_symptom",
       "avg_score": 0.86453405,
       "count": 1
@@ -356,7 +356,7 @@
       "count": 2
     },
     {
-      "word": "wmw",
+      "word": "wm w",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.874897365,
       "count": 1
@@ -368,7 +368,7 @@
       "count": 1
     },
     {
-      "word": "wmwsd",
+      "word": "wm w sd",
       "entity_group": "Sign_symptom",
       "avg_score": 0.8201999466666666,
       "count": 1
@@ -392,7 +392,7 @@
       "count": 2
     },
     {
-      "word": "spatialwm3xt",
+      "word": "spatial wm 3xt",
       "entity_group": "Sign_symptom",
       "avg_score": 0.75506771,
       "count": 1
@@ -404,7 +404,7 @@
       "count": 1
     },
     {
-      "word": "increasedga",
+      "word": "increased ga",
       "entity_group": "Lab_value",
       "avg_score": 0.9148129700000001,
       "count": 1
@@ -416,7 +416,7 @@
       "count": 1
     },
     {
-      "word": "decreasedgaba",
+      "word": "decreased gaba",
       "entity_group": "Lab_value",
       "avg_score": 0.94870147,
       "count": 1
@@ -434,7 +434,7 @@
       "count": 1
     },
     {
-      "word": "alterationswm",
+      "word": "alterations wm",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.814760505,
       "count": 1
@@ -452,7 +452,7 @@
       "count": 1
     },
     {
-      "word": "transientcognitive deficits",
+      "word": "transient cognitive deficits",
       "entity_group": "Sign_symptom",
       "avg_score": 0.98485735,
       "count": 1
@@ -476,7 +476,7 @@
       "count": 1
     },
     {
-      "word": "estrogen",
+      "word": "est rogen",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.6956230999999999,
       "count": 1
@@ -488,7 +488,7 @@
       "count": 1
     },
     {
-      "word": "dochexaeno",
+      "word": "doc hexaeno",
       "entity_group": "Medication",
       "avg_score": 0.73117853,
       "count": 1
@@ -554,7 +554,7 @@
       "count": 1
     },
     {
-      "word": "polyat",
+      "word": "poly at",
       "entity_group": "Coreference",
       "avg_score": 0.73483857,
       "count": 1
@@ -566,13 +566,13 @@
       "count": 1
     },
     {
-      "word": "sleep apneaos",
+      "word": "sleep apnea os",
       "entity_group": "Sign_symptom",
       "avg_score": 0.94298795,
       "count": 1
     },
     {
-      "word": "chronicintermittenthypoxiai",
+      "word": "chronic intermittent hypoxia i",
       "entity_group": "Sign_symptom",
       "avg_score": 0.933525245,
       "count": 1
@@ -596,13 +596,13 @@
       "count": 1
     },
     {
-      "word": "tpcd",
+      "word": "t pc d",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.5143309533333333,
       "count": 1
     },
     {
-      "word": "lespcdnp",
+      "word": "les pcd np",
       "entity_group": "Coreference",
       "avg_score": 0.676805,
       "count": 1
@@ -632,13 +632,13 @@
       "count": 1
     },
     {
-      "word": "pcdnpimproved",
+      "word": "pcd np improved",
       "entity_group": "Lab_value",
       "avg_score": 0.7294986516666667,
       "count": 1
     },
     {
-      "word": "pcdnp",
+      "word": "pc d np",
       "entity_group": "Disease_disorder",
       "avg_score": 0.744387,
       "count": 1
@@ -656,7 +656,7 @@
       "count": 1
     },
     {
-      "word": "superoxide dismutaseso",
+      "word": "superoxide dismutase so",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.9428015000000001,
       "count": 1
@@ -674,13 +674,13 @@
       "count": 1
     },
     {
-      "word": "tpcnp",
+      "word": "tpc np",
       "entity_group": "Coreference",
       "avg_score": 0.566039365,
       "count": 1
     },
     {
-      "word": "nuclear factor erythroid 2 - related factor 2nr",
+      "word": "nuclear factor erythroid 2 - related factor 2 nr",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.7499029,
       "count": 1
@@ -692,13 +692,13 @@
       "count": 1
     },
     {
-      "word": "echassociated protein 1",
+      "word": "ech associated protein 1",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.8701210500000001,
       "count": 1
     },
     {
-      "word": "increasedheme oxygenase - 1",
+      "word": "increased heme oxygenase - 1",
       "entity_group": "Diagnostic_procedure",
       "avg_score": 0.842060635,
       "count": 1
@@ -710,7 +710,7 @@
       "count": 1
     },
     {
-      "word": "tpcdnp",
+      "word": "tpcd np",
       "entity_group": "Coreference",
       "avg_score": 0.7779937933333334,
       "count": 1
@@ -722,7 +722,7 @@
       "count": 1
     },
     {
-      "word": "ih",
+      "word": "i h",
       "entity_group": "Disease_disorder",
       "avg_score": 0.769539025,
       "count": 1

@@ -106,7 +106,8 @@ for publications in concatenated:
                 should_merge = True
 
         if should_merge:
-            combine_word = prev_word + cur_word
+            combine_word = prev_word.rstrip() + " " + cur_word.lstrip()
+
             merged_num += 1
             prev_score += cur_score
             prev_end = cur_end

@@ -23,7 +23,7 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.5998602000000001",
-          "word": "sleep improvement the rapies",
+          "word": "sleep improvement the rabies",
           "start": 98,
           "end": 125
         },
@@ -93,14 +93,14 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.761820025",
-          "word": "neuro gnition",
+          "word": "negro ignition",
           "start": 578,
           "end": 592
         },
         {
           "entity_group": "Sign_symptom",
           "score": "0.7051176166666666",
-          "word": "ly un ired older adults",
+          "word": "my in red older adults",
           "start": 655,
           "end": 681
         },
@@ -289,7 +289,7 @@
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.5669112",
-          "word": "mvp",
+          "word": "map",
           "start": 2030,
           "end": 2033
         },
@@ -422,7 +422,7 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.8197819000000001",
-          "word": "anxiety - like behavior 6 - month - old triple trans",
+          "word": "anxiety - like behavior 6 - month - old triple trains",
           "start": 454,
           "end": 503
         },
@@ -471,7 +471,7 @@
         {
           "entity_group": "Lab_value",
           "score": "0.6888895825",
-          "word": "re m sd increased",
+          "word": "re m so increased",
           "start": 805,
           "end": 821
         },
@@ -548,7 +548,7 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.8201999466666666",
-          "word": "wm w sd",
+          "word": "wm w so",
           "start": 1139,
           "end": 1150
         },
@@ -583,7 +583,7 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.75506771",
-          "word": "spatial wm 3xt",
+          "word": "spatial wm 3 xt",
           "start": 1293,
           "end": 1310
         },
@@ -632,7 +632,7 @@
         {
           "entity_group": "Biological_structure",
           "score": "0.9539077",
-          "word": "dentate gyr",
+          "word": "dentate gym",
           "start": 1491,
           "end": 1502
         },
@@ -674,7 +674,7 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.98485735",
-          "word": "transient cognitive deficits",
+          "word": "transient cognitive deficit s",
           "start": 82,
           "end": 110
         },
@@ -702,7 +702,7 @@
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.6956230999999999",
-          "word": "est rogen",
+          "word": "best roger",
           "start": 188,
           "end": 196
         },
@@ -723,35 +723,35 @@
         {
           "entity_group": "Medication",
           "score": "0.6639104",
-          "word": "eno",
+          "word": "no",
           "start": 385,
           "end": 388
         },
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.9837714",
-          "word": "epa",
+          "word": "era",
           "start": 557,
           "end": 560
         },
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.85667646",
-          "word": "dha",
+          "word": "ha",
           "start": 565,
           "end": 568
         },
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.93884385",
-          "word": "epa",
+          "word": "era",
           "start": 669,
           "end": 672
         },
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.8053695",
-          "word": "dh",
+          "word": "do",
           "start": 677,
           "end": 679
         },
@@ -765,7 +765,7 @@
         {
           "entity_group": "Disease_disorder",
           "score": "0.614041",
-          "word": "rc",
+          "word": "re",
           "start": 810,
           "end": 812
         },
@@ -814,7 +814,7 @@
         {
           "entity_group": "Coreference",
           "score": "0.5898673",
-          "word": "gonat",
+          "word": "goat",
           "start": 482,
           "end": 487
         },
@@ -891,28 +891,28 @@
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.5143309533333333",
-          "word": "t pc d",
+          "word": "t pa d",
           "start": 320,
           "end": 324
         },
         {
           "entity_group": "Coreference",
           "score": "0.676805",
-          "word": "les pcd np",
+          "word": "les pod np",
           "start": 335,
           "end": 347
         },
         {
           "entity_group": "Medication",
           "score": "0.94935554",
-          "word": "tempol",
+          "word": "tempo",
           "start": 389,
           "end": 395
         },
         {
           "entity_group": "Medication",
           "score": "0.77809596",
-          "word": "boronic acid pinacol",
+          "word": "moronic acid pinacol",
           "start": 406,
           "end": 426
         },
@@ -926,21 +926,21 @@
         {
           "entity_group": "Administration",
           "score": "0.98916864",
-          "word": "intra",
+          "word": "infra",
           "start": 498,
           "end": 503
         },
         {
           "entity_group": "Lab_value",
           "score": "0.7294986516666667",
-          "word": "pcd np improved",
+          "word": "pod np improved",
           "start": 529,
           "end": 544
         },
         {
           "entity_group": "Disease_disorder",
           "score": "0.744387",
-          "word": "pc d np",
+          "word": "pa d np",
           "start": 655,
           "end": 661
         },
@@ -954,7 +954,7 @@
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.9629884",
-          "word": "mal",
+          "word": "man",
           "start": 714,
           "end": 717
         },
@@ -982,21 +982,21 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.9918744",
-          "word": "ap",
+          "word": "a",
           "start": 841,
           "end": 843
         },
         {
           "entity_group": "Coreference",
           "score": "0.566039365",
-          "word": "tpc np",
+          "word": "tic np",
           "start": 991,
           "end": 998
         },
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.7499029",
-          "word": "nuclear factor erythroid 2 - related factor 2 nr",
+          "word": "nuclear factor erythroid 2 - related factor 2 no",
           "start": 1037,
           "end": 1084
         },
@@ -1010,21 +1010,21 @@
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.8701210500000001",
-          "word": "ech associated protein 1",
+          "word": "each associated protein 1",
           "start": 1111,
           "end": 1135
         },
         {
           "entity_group": "Diagnostic_procedure",
           "score": "0.842060635",
-          "word": "increased heme oxygenase - 1",
+          "word": "increased heme oxygenate - 1",
           "start": 1149,
           "end": 1175
         },
         {
           "entity_group": "Coreference",
           "score": "0.82686435",
-          "word": "tpc",
+          "word": "tic",
           "start": 1379,
           "end": 1382
         },
@@ -1038,7 +1038,7 @@
         {
           "entity_group": "Sign_symptom",
           "score": "0.882187905",
-          "word": "apop",
+          "word": "pop",
           "start": 1443,
           "end": 1447
         },
@@ -1052,7 +1052,7 @@
         {
           "entity_group": "Disease_disorder",
           "score": "0.80120647",
-          "word": "pc",
+          "word": "pa",
           "start": 1555,
           "end": 1557
         }
