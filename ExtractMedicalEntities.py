@@ -34,5 +34,5 @@ class EncodeMedicalEntity:
         "topic": paper_json['topic'],
         "publications": medical_entities
     }
-    with open("MedicalEntities.json", mode="w", encoding="utf-8") as write_file:
+    with open("rawMedicalEntities.json", mode="w", encoding="utf-8") as write_file:
         json.dump(final_medical_entity, write_file, indent = 2)
