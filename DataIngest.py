@@ -6,8 +6,9 @@ Entrez.email = "your.email@example.com"
 class ExtractData:
 # Search for papers (example: keyword "cancer")
     papers = []
-    topic = "Mitochondrial dysfunction in neurodegenerative diseases"
-    handle = Entrez.esearch(db="pubmed", term=topic, retmax=2)
+    # topic = "Mitochondrial dysfunction in neurodegenerative diseases"
+    topic = "magnesium"
+    handle = Entrez.esearch(db="pubmed", term=topic, retmax=100)
     record = Entrez.read(handle)
     handle.close()
 
