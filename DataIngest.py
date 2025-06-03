@@ -7,8 +7,8 @@ class ExtractData:
 # Search for papers (example: keyword "cancer")
     papers = []
     # topic = "Mitochondrial dysfunction in neurodegenerative diseases"
-    topic = "magnesium"
-    handle = Entrez.esearch(db="pubmed", term=topic, retmax=100)
+    topic = "sleep improves memory"
+    handle = Entrez.esearch(db="pubmed", term=topic, retmax=5)
     record = Entrez.read(handle)
     handle.close()
 

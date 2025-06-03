@@ -1,13 +1,15 @@
 import json
-from itertools import chain
+import re
+from collections import defaultdict
 
 file_name = 'medicalEntities.json'
 
+# load json
 with open(file_name, 'r') as file:
     rawMedicalEntities = json.load(file)
-# print(paper_json)
 store = rawMedicalEntities['publications']
 
+# First pass: merge subwords (## based merging)
 concatenated = []
 for publications in store:
     prev_word = None
@@ -16,127 +18,140 @@ for publications in store:
     prev_score = None
     merged_num = 1
     prev_entity_group = None
+    prev_is_subword = False
     cur_entities = []
+
     for entity in publications['entities']:
         cur_end = entity['end']
-
-        cur_word = entity['word']
         cur_start = entity['start']
-        cur_score = entity['score']
+        cur_score = float(entity['score'])
         cur_entity_group = entity['entity_group']
 
+        word_raw = entity['word']
+        cur_is_subword = word_raw.startswith("##")
+        cur_word = word_raw.replace("#", "") if cur_is_subword else word_raw
 
-        if prev_word != None and prev_end == cur_start and prev_entity_group == cur_entity_group:
-            prev_word_iter = iter(prev_word)
-            print("JOINED")
-            combine_word = prev_word + cur_word.lstrip('#')
-            combine_word = combine_word.replace('#','')
-            merged_num+=1
-            print(combine_word)
-            prev_score += float(cur_score)
+        if prev_word is not None and prev_end == cur_start and prev_entity_group == cur_entity_group:
+            if prev_is_subword or cur_is_subword:
+                combine_word = (prev_word + cur_word).replace(" ", "")
+            else:
+                combine_word = prev_word + " " + cur_word
+
+            merged_num += 1
+            prev_score += cur_score
             prev_end = cur_end
             prev_word = combine_word
+            prev_is_subword = prev_is_subword or cur_is_subword
         else:
             if prev_word is not None:
-                new_score = float(prev_score) / merged_num
-                entity = {
+                new_score = prev_score / merged_num
+                cur_entities.append({
                     "entity_group": prev_entity_group,
                     "score": str(new_score),
                     "word": prev_word,
                     "start": prev_start,
                     "end": prev_end
-                }
-                cur_entities.append(entity)
-            if prev_word is None and cur_word.startswith("##"):
-                cur_word = cur_word.lstrip("#")
+                })
+
             prev_word = cur_word
             prev_end = cur_end
             prev_start = cur_start
-            prev_score = float(cur_score)
+            prev_score = cur_score
             prev_entity_group = cur_entity_group
+            prev_is_subword = cur_is_subword
             merged_num = 1
 
     if prev_word is not None:
-        new_score = float(prev_score) / merged_num
+        new_score = prev_score / merged_num
         cur_entities.append({
             "entity_group": prev_entity_group,
             "score": str(new_score),
             "word": prev_word,
             "start": prev_start,
             "end": prev_end
-    })
-    new_pmd_entities = {
+        })
+
+    concatenated.append({
         "pmid": publications['pmid'],
         "title": publications['title'],
         "abstract": publications['abstract'],
         "entities": cur_entities
-    }
-    concatenated.append(new_pmd_entities)
-print(concatenated)
+    })
 
+# Second pass: merge broken tokens even when entity_group differs
 merged_words_entity_groups = []
-threshold_gap = 4
+threshold_gap = 4  # adjustable hyperparameter
+
 for publications in concatenated:
     prev_word = None
     prev_end = None
     prev_start = None
     prev_score = None
-    merged_num = 1
     prev_entity_group = None
+    merged_num = 1
     cur_entities = []
+
     for entity in publications['entities']:
         cur_end = entity['end']
-
-        cur_word = entity['word']
         cur_start = entity['start']
-        cur_score = entity['score']
+        cur_score = float(entity['score'])
         cur_entity_group = entity['entity_group']
-        if prev_word != None and prev_end >= cur_start - threshold_gap and prev_end <= cur_start:
-            print("JOINED")
-            combine_word = prev_word + " " + cur_word
-            merged_num+=1
-            print(combine_word)
-            prev_score += float(cur_score)
+        cur_word = entity['word']
+
+        should_merge = False
+
+        # Merge if tokens are close enough regardless of entity group
+        if prev_word is not None:
+            if (prev_end >= cur_start - threshold_gap and prev_end <= cur_start):
+                should_merge = True
+
+        if should_merge:
+            combine_word = prev_word + cur_word
+            merged_num += 1
+            prev_score += cur_score
             prev_end = cur_end
             prev_word = combine_word
+
+            # Pick entity_group of higher confidence
+            if cur_score > prev_score / merged_num:
+                prev_entity_group = cur_entity_group
+
         else:
             if prev_word is not None:
-                new_score = float(prev_score) / merged_num
-                entity = {
+                new_score = prev_score / merged_num
+                cur_entities.append({
                     "entity_group": prev_entity_group,
                     "score": str(new_score),
                     "word": prev_word,
                     "start": prev_start,
                     "end": prev_end
-                }
-                cur_entities.append(entity)
-                
+                })
+
             prev_word = cur_word
             prev_end = cur_end
             prev_start = cur_start
-            prev_score = float(cur_score)
+            prev_score = cur_score
             prev_entity_group = cur_entity_group
             merged_num = 1
 
     if prev_word is not None:
-        new_score = float(prev_score) / merged_num
+        new_score = prev_score / merged_num
         cur_entities.append({
             "entity_group": prev_entity_group,
             "score": str(new_score),
             "word": prev_word,
             "start": prev_start,
             "end": prev_end
-    })
-    new_pmd_entities = {
+        })
+
+    merged_words_entity_groups.append({
         "pmid": publications['pmid'],
         "title": publications['title'],
         "abstract": publications['abstract'],
         "entities": cur_entities
-    }
-    merged_words_entity_groups.append(new_pmd_entities)
-    
-from collections import defaultdict
+    })
 
+# Output 1 — Aggregated entity vocabulary
 entity_aggregate = defaultdict(lambda: {"count": 0, "score_sum": 0.0, "entity_group": None})
 
 for pub in merged_words_entity_groups:
@@ -156,8 +171,21 @@ for (word, entity_group), data in entity_aggregate.items():
         "count": data['count']
     })
 
-print("distinct kg entities")
-print(final_kg_entities)
+filtered_medical_entity = {
+    "topic": rawMedicalEntities['topic'],
+    "publications": final_kg_entities
+}
 
-            
+with open("FilteredMedicals.json", mode="w", encoding="utf-8") as write_file:
+    json.dump(filtered_medical_entity, write_file, indent = 2)
 
+# Output 2 — Fully merged entities per publication for relationship extraction
+filtered_publication_level = {
+    "topic": rawMedicalEntities['topic'],
+    "publications": merged_words_entity_groups
+}
+
+with open("FilteredPerPublication.json", mode="w", encoding="utf-8") as write_file:
+    json.dump(filtered_publication_level, write_file, indent = 2)
+
+print("Done. Smart merged files generated.")
