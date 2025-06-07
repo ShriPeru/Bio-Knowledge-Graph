@@ -2,6 +2,28 @@ import json
 import re
 from collections import defaultdict
 
+
+def recompute_offsets(publications):
+    for pub in publications:
+        abstract = pub['abstract']
+        for entity in pub['entities']:
+            word = entity['word']
+            original_start = entity['start']  # this is from your merged data, used as approximate anchor
+
+            # Find all occurrences of the word in the abstract
+            occurrences = [m.start() for m in re.finditer(re.escape(word), abstract)]
+
+            if not occurrences:
+                print(f"Warning: '{word}' not found in abstract for PMID {pub['pmid']}")
+                continue
+
+            # Find the occurrence closest to original_start
+            best_match = min(occurrences, key=lambda x: abs(x - original_start))
+
+            entity['start'] = best_match
+            entity['end'] = best_match + len(word)
+
+
 file_name = 'medicalEntities.json'
 
 # load json
@@ -151,6 +173,7 @@ for publications in concatenated:
         "abstract": publications['abstract'],
         "entities": cur_entities
     })
+recompute_offsets(merged_words_entity_groups)
 
 # Output 1 — Aggregated entity vocabulary
 entity_aggregate = defaultdict(lambda: {"count": 0, "score_sum": 0.0, "entity_group": None})
