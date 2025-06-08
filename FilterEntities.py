@@ -24,7 +24,7 @@ def recompute_offsets(publications):
             entity['end'] = best_match + len(word)
 
 
-file_name = 'medicalEntities.json'
+file_name = 'rawMedicalEntities.json'
 
 # load json
 with open(file_name, 'r') as file:
