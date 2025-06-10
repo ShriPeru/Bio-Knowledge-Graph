@@ -1,0 +1,545 @@
+{
+  "topic": "sleep improves memory",
+  "publications": [
+    {
+      "word": "stress pnms",
+      "entity_group": "Disease_disorder",
+      "avg_score": 0.8717086316666667,
+      "count": 1
+    },
+    {
+      "word": "d",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.96003443,
+      "count": 1
+    },
+    {
+      "word": "separation anxiety disorder sad",
+      "entity_group": "Disease_disorder",
+      "avg_score": 0.9981336999999999,
+      "count": 1
+    },
+    {
+      "word": "technique net",
+      "entity_group": "Coreference",
+      "avg_score": 0.54711552,
+      "count": 1
+    },
+    {
+      "word": "body",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.9653959,
+      "count": 1
+    },
+    {
+      "word": "net",
+      "entity_group": "Coreference",
+      "avg_score": 0.6901128733333334,
+      "count": 3
+    },
+    {
+      "word": "anxiety",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.66694564,
+      "count": 1
+    },
+    {
+      "word": "eight - year - old",
+      "entity_group": "Age",
+      "avg_score": 0.97307473,
+      "count": 1
+    },
+    {
+      "word": "separation",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.85617375,
+      "count": 1
+    },
+    {
+      "word": "symptoms",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9939389,
+      "count": 1
+    },
+    {
+      "word": "net",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.38928193,
+      "count": 1
+    },
+    {
+      "word": "points",
+      "entity_group": "Lab_value",
+      "avg_score": 0.96244997,
+      "count": 1
+    },
+    {
+      "word": "conventional",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.82120764,
+      "count": 1
+    },
+    {
+      "word": "prescription stimulants",
+      "entity_group": "Medication",
+      "avg_score": 0.99113816,
+      "count": 1
+    },
+    {
+      "word": "methylphenidate",
+      "entity_group": "Medication",
+      "avg_score": 0.9447670325,
+      "count": 2
+    },
+    {
+      "word": "norepineph",
+      "entity_group": "Medication",
+      "avg_score": 0.8912496,
+      "count": 1
+    },
+    {
+      "word": "dopaminereuptakeinhibitors",
+      "entity_group": "Medication",
+      "avg_score": 0.96018593,
+      "count": 1
+    },
+    {
+      "word": "magnetic",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.9650211,
+      "count": 1
+    },
+    {
+      "word": "imaging fm",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.9661214,
+      "count": 1
+    },
+    {
+      "word": "resting state fmri",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.8703975083333333,
+      "count": 1
+    },
+    {
+      "word": "children",
+      "entity_group": "Subject",
+      "avg_score": 0.6953316,
+      "count": 1
+    },
+    {
+      "word": "level",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.8168996,
+      "count": 1
+    },
+    {
+      "word": "controlled",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.8623423,
+      "count": 1
+    },
+    {
+      "word": "st",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.90250033,
+      "count": 1
+    },
+    {
+      "word": "nts",
+      "entity_group": "Coreference",
+      "avg_score": 0.31881833,
+      "count": 1
+    },
+    {
+      "word": "fc",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.9299809299999999,
+      "count": 2
+    },
+    {
+      "word": "nor",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.6829641,
+      "count": 1
+    },
+    {
+      "word": "rs",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.5735092,
+      "count": 1
+    },
+    {
+      "word": "stimulants",
+      "entity_group": "Medication",
+      "avg_score": 0.8336785,
+      "count": 1
+    },
+    {
+      "word": "sleep",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.717007965,
+      "count": 2
+    },
+    {
+      "word": "slow wave",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.9809230499999999,
+      "count": 1
+    },
+    {
+      "word": "sw",
+      "entity_group": "Disease_disorder",
+      "avg_score": 0.9936536583333333,
+      "count": 6
+    },
+    {
+      "word": "memory complaints",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.98465955,
+      "count": 1
+    },
+    {
+      "word": "sleep disturbances",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9993751,
+      "count": 1
+    },
+    {
+      "word": "overnight polysomnography ps",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.9950738916666667,
+      "count": 1
+    },
+    {
+      "word": "cognitive assessments",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.999105,
+      "count": 1
+    },
+    {
+      "word": "psg",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.9830341,
+      "count": 1
+    },
+    {
+      "word": "oxygen desat",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.99160117,
+      "count": 1
+    },
+    {
+      "word": "index",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.93707865,
+      "count": 1
+    },
+    {
+      "word": "memory consolidation",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9614959859999999,
+      "count": 5
+    },
+    {
+      "word": "sleep",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.3544842,
+      "count": 1
+    },
+    {
+      "word": "linear regression models",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.9965574,
+      "count": 1
+    },
+    {
+      "word": "ah",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.993517105,
+      "count": 2
+    },
+    {
+      "word": "consolidation",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.98397106,
+      "count": 1
+    },
+    {
+      "word": "slow wave index",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.978752285,
+      "count": 1
+    },
+    {
+      "word": "w",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.7780617,
+      "count": 1
+    },
+    {
+      "word": "memory",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.94140655,
+      "count": 2
+    },
+    {
+      "word": "cp ap",
+      "entity_group": "Coreference",
+      "avg_score": 0.50752435,
+      "count": 1
+    },
+    {
+      "word": "sleep fragmentation",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.99302125,
+      "count": 1
+    },
+    {
+      "word": "studies",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.99329996,
+      "count": 1
+    },
+    {
+      "word": "ne",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.530706,
+      "count": 1
+    },
+    {
+      "word": "benzodiazepine",
+      "entity_group": "Medication",
+      "avg_score": 0.9508424516666668,
+      "count": 6
+    },
+    {
+      "word": "positive",
+      "entity_group": "Lab_value",
+      "avg_score": 0.95303386,
+      "count": 1
+    },
+    {
+      "word": "benz iazepine",
+      "entity_group": "Medication",
+      "avg_score": 0.7886536,
+      "count": 1
+    },
+    {
+      "word": "impairment",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9192841,
+      "count": 1
+    },
+    {
+      "word": "falls",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.92004544,
+      "count": 1
+    },
+    {
+      "word": "sleep spindles",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.975236685,
+      "count": 2
+    },
+    {
+      "word": "stages 2 and 3 non rapid eye movement",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.9341199000000001,
+      "count": 1
+    },
+    {
+      "word": "decreased",
+      "entity_group": "Lab_value",
+      "avg_score": 0.9298582,
+      "count": 1
+    },
+    {
+      "word": "epilepsy",
+      "entity_group": "Disease_disorder",
+      "avg_score": 0.9859679,
+      "count": 1
+    },
+    {
+      "word": "non invasive auditory stimulation",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.8230288333333333,
+      "count": 1
+    },
+    {
+      "word": "sos",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.98168296,
+      "count": 1
+    },
+    {
+      "word": "so - spindle complexes healthy adults",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.6885297599999999,
+      "count": 1
+    },
+    {
+      "word": "auditory",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.6981934750000001,
+      "count": 2
+    },
+    {
+      "word": "so so",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9298745,
+      "count": 1
+    },
+    {
+      "word": "re",
+      "entity_group": "Disease_disorder",
+      "avg_score": 0.853149275,
+      "count": 2
+    },
+    {
+      "word": "two nap",
+      "entity_group": "Lab_value",
+      "avg_score": 0.74481635,
+      "count": 1
+    },
+    {
+      "word": "sham",
+      "entity_group": "Disease_disorder",
+      "avg_score": 0.357087,
+      "count": 1
+    },
+    {
+      "word": "sos",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.86515534,
+      "count": 1
+    },
+    {
+      "word": "so - spindle complexes",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.967006548,
+      "count": 5
+    },
+    {
+      "word": "off",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.9077018,
+      "count": 1
+    },
+    {
+      "word": "auditory stimulation",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.7429289,
+      "count": 1
+    },
+    {
+      "word": "so s",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.84295611,
+      "count": 2
+    },
+    {
+      "word": "maximal",
+      "entity_group": "Lab_value",
+      "avg_score": 0.5536101,
+      "count": 1
+    },
+    {
+      "word": "frontal",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.81949186,
+      "count": 1
+    },
+    {
+      "word": "stimulation",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.88069111,
+      "count": 2
+    },
+    {
+      "word": "so",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9454789333333333,
+      "count": 3
+    },
+    {
+      "word": "near",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.8717557,
+      "count": 1
+    },
+    {
+      "word": "peak",
+      "entity_group": "Lab_value",
+      "avg_score": 0.7704425,
+      "count": 1
+    },
+    {
+      "word": "so upstate maximal ev",
+      "entity_group": "Lab_value",
+      "avg_score": 0.78572686,
+      "count": 1
+    },
+    {
+      "word": "changes",
+      "entity_group": "Lab_value",
+      "avg_score": 0.9953897,
+      "count": 1
+    },
+    {
+      "word": "improvement",
+      "entity_group": "Lab_value",
+      "avg_score": 0.99639688,
+      "count": 2
+    },
+    {
+      "word": "auditory stimulation re",
+      "entity_group": "Lab_value",
+      "avg_score": 0.8917204,
+      "count": 1
+    },
+    {
+      "word": "ulates sleep oscillations",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.9928428,
+      "count": 1
+    },
+    {
+      "word": "background",
+      "entity_group": "Detailed_description",
+      "avg_score": 0.6638942,
+      "count": 1
+    },
+    {
+      "word": "so",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.5686826,
+      "count": 1
+    },
+    {
+      "word": "event",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.6670576,
+      "count": 1
+    },
+    {
+      "word": "stimulation paradigm",
+      "entity_group": "Diagnostic_procedure",
+      "avg_score": 0.81693023,
+      "count": 1
+    },
+    {
+      "word": "increase so",
+      "entity_group": "Lab_value",
+      "avg_score": 0.718624975,
+      "count": 1
+    },
+    {
+      "word": "dle complex",
+      "entity_group": "Sign_symptom",
+      "avg_score": 0.97283435,
+      "count": 1
+    }
+  ]
+}

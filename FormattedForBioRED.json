@@ -1,0 +1,1234 @@
+[
+  {
+    "pmid": "40476104",
+    "sentence": "Prenatal maternal stress (PNMS) is increasingly recognised as a contributor to early-life emotional dysregulation through mechanisms such as prenatal stress programming (PNSP).",
+    "entity1": "stress pnms",
+    "entity1_type": "Disease_disorder",
+    "entity2": "d",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40476104",
+    "sentence": "Neuro Emotional Technique (NET) is a mind-body intervention that targets unresolved emotional stress patterns through physiological and semantic integration.",
+    "entity1": "technique net",
+    "entity1_type": "Coreference",
+    "entity2": "body",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40476104",
+    "sentence": "While used clinically in stress-related disorders, NET's application in treating anxiety rooted in prenatal stress is underreported.",
+    "entity1": "net",
+    "entity1_type": "Coreference",
+    "entity2": "anxiety",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40476104",
+    "sentence": "An eight-year-old girl presented with severe separation anxiety, persistent nightmares, generalised anxiety, oppositional behaviour, and sleep difficulties.",
+    "entity1": "eight - year - old",
+    "entity1_type": "Age",
+    "entity2": "separation",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40476104",
+    "sentence": "This case suggests that NET may offer therapeutic benefit in children with anxiety linked to prenatal stress, particularly when conventional approaches have been unsuccessful.",
+    "entity1": "net",
+    "entity1_type": "Coreference",
+    "entity2": "conventional",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Prescription stimulants such as methylphenidate are being used by an increasing portion of the population, primarily children.",
+    "entity1": "prescription stimulants",
+    "entity1_type": "Medication",
+    "entity2": "methylphenidate",
+    "entity2_type": "Medication"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "These potent norepinephrine and dopamine reuptake inhibitors promote wakefulness, suppress appetite, enhance physical performance, and are purported to increase attentional abilities.",
+    "entity1": "norepineph",
+    "entity1_type": "Medication",
+    "entity2": "dopaminereuptakeinhibitors",
+    "entity2_type": "Medication"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Prior functional magnetic resonance imaging (fMRI) studies have yielded conflicting results about the effects of stimulants on the brain's attention, action/motor, and salience regions that are difficult to reconcile with their proposed attentional effects.",
+    "entity1": "magnetic",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "imaging fm",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Here, we utilized resting-state fMRI (rs-fMRI) data from the large Adolescent Brain Cognitive Development (ABCD) Study to understand the effects of stimulants on brain functional connectivity (FC) in children ( <i>n</i> = 11,875; 8-11 years old) using network level analysis (NLA).",
+    "entity1": "resting state fmri",
+    "entity1_type": "Detailed_description",
+    "entity2": "children",
+    "entity2_type": "Subject"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Here, we utilized resting-state fMRI (rs-fMRI) data from the large Adolescent Brain Cognitive Development (ABCD) Study to understand the effects of stimulants on brain functional connectivity (FC) in children ( <i>n</i> = 11,875; 8-11 years old) using network level analysis (NLA).",
+    "entity1": "resting state fmri",
+    "entity1_type": "Detailed_description",
+    "entity2": "level",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Here, we utilized resting-state fMRI (rs-fMRI) data from the large Adolescent Brain Cognitive Development (ABCD) Study to understand the effects of stimulants on brain functional connectivity (FC) in children ( <i>n</i> = 11,875; 8-11 years old) using network level analysis (NLA).",
+    "entity1": "children",
+    "entity1_type": "Subject",
+    "entity2": "level",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "We validated these brain-wide association study (BWAS) findings in a controlled, precision imaging drug trial (PIDT) with highly-sampled (165-210 minutes) healthy adults receiving high-dose methylphenidate (Ritalin, 40 mg).",
+    "entity1": "controlled",
+    "entity1_type": "Detailed_description",
+    "entity2": "methylphenidate",
+    "entity2_type": "Medication"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+    "entity1": "st",
+    "entity1_type": "Sign_symptom",
+    "entity2": "nts",
+    "entity2_type": "Coreference"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+    "entity1": "st",
+    "entity1_type": "Sign_symptom",
+    "entity2": "fc",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+    "entity1": "st",
+    "entity1_type": "Sign_symptom",
+    "entity2": "nor",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+    "entity1": "nts",
+    "entity1_type": "Coreference",
+    "entity2": "fc",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+    "entity1": "nts",
+    "entity1_type": "Coreference",
+    "entity2": "nor",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+    "entity1": "fc",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "nor",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Stimulant-related differences in FC closely matched the rs-fMRI pattern of getting enough sleep, as well as EEG- and respiration-derived brain maps of arousal.",
+    "entity1": "fc",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "rs",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40475604",
+    "sentence": "Taking stimulants rescued the effects of sleep deprivation on brain connectivity and school grades.",
+    "entity1": "stimulants",
+    "entity1_type": "Medication",
+    "entity2": "sleep",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Slow-wave sleep (SWS) plays a crucial role in memory consolidation, yet its disruption in obstructive sleep apnea (OSA) remains poorly understood.",
+    "entity1": "slow wave",
+    "entity1_type": "Detailed_description",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "memory complaints",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sleep disturbances",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "memory complaints",
+    "entity1_type": "Sign_symptom",
+    "entity2": "overnight polysomnography ps",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "memory complaints",
+    "entity1_type": "Sign_symptom",
+    "entity2": "cognitive assessments",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "memory complaints",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "sleep disturbances",
+    "entity1_type": "Sign_symptom",
+    "entity2": "overnight polysomnography ps",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "sleep disturbances",
+    "entity1_type": "Sign_symptom",
+    "entity2": "cognitive assessments",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "sleep disturbances",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "overnight polysomnography ps",
+    "entity1_type": "Detailed_description",
+    "entity2": "cognitive assessments",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "overnight polysomnography ps",
+    "entity1_type": "Detailed_description",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+    "entity1": "cognitive assessments",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+    "entity1": "sw",
+    "entity1_type": "Disease_disorder",
+    "entity2": "psg",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+    "entity1": "sw",
+    "entity1_type": "Disease_disorder",
+    "entity2": "oxygen desat",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+    "entity1": "sw",
+    "entity1_type": "Disease_disorder",
+    "entity2": "index",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+    "entity1": "psg",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "oxygen desat",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+    "entity1": "psg",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "index",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+    "entity1": "oxygen desat",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "index",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Higher ODI-3 % and AHI were significantly associated with poorer memory consolidation, as indicated by lower WSLT-MIS scores (p < 0.05).",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "ah",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Higher ODI-3 % and AHI were significantly associated with poorer memory consolidation, as indicated by lower WSLT-MIS scores (p < 0.05).",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "ah",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "AHI during NREM sleep was more strongly associated with poorer memory consolidation compared to AHI during REM sleep.",
+    "entity1": "ah",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "consolidation",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Conversely, a higher slow-wave index was positively correlated with better WSLT-MIS scores and retention rates (p < 0.05).",
+    "entity1": "slow wave index",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "w",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "These findings highlight the critical role of SWS in memory consolidation and the detrimental effects of OSA-related sleep disturbances.",
+    "entity1": "sw",
+    "entity1_type": "Disease_disorder",
+    "entity2": "memory",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "While CPAP therapy remains the standard treatment for improving oxygenation and reducing sleep fragmentation in OSA, additional strategies aimed at enhancing SWS may further support cognitive function.",
+    "entity1": "cp ap",
+    "entity1_type": "Coreference",
+    "entity2": "sleep fragmentation",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "While CPAP therapy remains the standard treatment for improving oxygenation and reducing sleep fragmentation in OSA, additional strategies aimed at enhancing SWS may further support cognitive function.",
+    "entity1": "cp ap",
+    "entity1_type": "Coreference",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "While CPAP therapy remains the standard treatment for improving oxygenation and reducing sleep fragmentation in OSA, additional strategies aimed at enhancing SWS may further support cognitive function.",
+    "entity1": "sleep fragmentation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Longitudinal studies and neuroimaging approaches are needed to better understand the mechanisms linking SWS enhancement and cognitive health.",
+    "entity1": "studies",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "ne",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Longitudinal studies and neuroimaging approaches are needed to better understand the mechanisms linking SWS enhancement and cognitive health.",
+    "entity1": "studies",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40469532",
+    "sentence": "Longitudinal studies and neuroimaging approaches are needed to better understand the mechanisms linking SWS enhancement and cognitive health.",
+    "entity1": "ne",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "sw",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40463895",
+    "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+    "entity1": "benzodiazepine",
+    "entity1_type": "Medication",
+    "entity2": "benz iazepine",
+    "entity2_type": "Medication"
+  },
+  {
+    "pmid": "40463895",
+    "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+    "entity1": "benzodiazepine",
+    "entity1_type": "Medication",
+    "entity2": "impairment",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40463895",
+    "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+    "entity1": "benzodiazepine",
+    "entity1_type": "Medication",
+    "entity2": "falls",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40463895",
+    "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+    "entity1": "benz iazepine",
+    "entity1_type": "Medication",
+    "entity2": "impairment",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40463895",
+    "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+    "entity1": "benz iazepine",
+    "entity1_type": "Medication",
+    "entity2": "falls",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40463895",
+    "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+    "entity1": "impairment",
+    "entity1_type": "Sign_symptom",
+    "entity2": "falls",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep.",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sleep spindles",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep.",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "stages 2 and 3 non rapid eye movement",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep.",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sleep spindles",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep.",
+    "entity1": "sleep spindles",
+    "entity1_type": "Sign_symptom",
+    "entity2": "stages 2 and 3 non rapid eye movement",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep.",
+    "entity1": "stages 2 and 3 non rapid eye movement",
+    "entity1_type": "Detailed_description",
+    "entity2": "sleep spindles",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep spindles and sleep-dependent memory consolidation are both decreased in Rolandic epilepsy (RE).",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "decreased",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep spindles and sleep-dependent memory consolidation are both decreased in Rolandic epilepsy (RE).",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "epilepsy",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep spindles and sleep-dependent memory consolidation are both decreased in Rolandic epilepsy (RE).",
+    "entity1": "decreased",
+    "entity1_type": "Lab_value",
+    "entity2": "epilepsy",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+    "entity1": "non invasive auditory stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "sos",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+    "entity1": "non invasive auditory stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so - spindle complexes healthy adults",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+    "entity1": "non invasive auditory stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "memory",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+    "entity1": "sos",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so - spindle complexes healthy adults",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+    "entity1": "sos",
+    "entity1_type": "Sign_symptom",
+    "entity2": "memory",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+    "entity1": "so - spindle complexes healthy adults",
+    "entity1_type": "Sign_symptom",
+    "entity2": "memory",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "auditory",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "auditory",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "sleep",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "auditory",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "memory consolidation",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "auditory",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "re",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "auditory",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "auditory stimulation",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "so so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "sleep",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "so so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "memory consolidation",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "so so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "re",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "so so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "auditory stimulation",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "sleep",
+    "entity1_type": "Sign_symptom",
+    "entity2": "memory consolidation",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "sleep",
+    "entity1_type": "Sign_symptom",
+    "entity2": "re",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "sleep",
+    "entity1_type": "Sign_symptom",
+    "entity2": "auditory stimulation",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "re",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "auditory stimulation",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+    "entity1": "re",
+    "entity1_type": "Disease_disorder",
+    "entity2": "auditory stimulation",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Children completed two nap visits with auditory or sham stimulation.",
+    "entity1": "two nap",
+    "entity1_type": "Lab_value",
+    "entity2": "sham",
+    "entity2_type": "Disease_disorder"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Children completed two nap visits with auditory or sham stimulation.",
+    "entity1": "two nap",
+    "entity1_type": "Lab_value",
+    "entity2": "sos",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Children completed two nap visits with auditory or sham stimulation.",
+    "entity1": "sham",
+    "entity1_type": "Disease_disorder",
+    "entity2": "sos",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "SOs and SO-spindle complexes rates were measured offline using validated detectors.",
+    "entity1": "sos",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "SOs and SO-spindle complexes rates were measured offline using validated detectors.",
+    "entity1": "sos",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "off",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "SOs and SO-spindle complexes rates were measured offline using validated detectors.",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "off",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Sleep-dependent memory consolidation was assessed using the motor sequence typing task.",
+    "entity1": "memory consolidation",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+    "entity1": "so s",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+    "entity1": "so s",
+    "entity1_type": "Sign_symptom",
+    "entity2": "maximal",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+    "entity1": "so s",
+    "entity1_type": "Sign_symptom",
+    "entity2": "frontal",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "maximal",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "frontal",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+    "entity1": "maximal",
+    "entity1_type": "Lab_value",
+    "entity2": "frontal",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "near",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "peak",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so upstate maximal ev",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so s",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "stimulation",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "near",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "peak",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so upstate maximal ev",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so s",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "near",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "peak",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so upstate maximal ev",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so s",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "stimulation",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "near",
+    "entity1_type": "Detailed_description",
+    "entity2": "peak",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "near",
+    "entity1_type": "Detailed_description",
+    "entity2": "so upstate maximal ev",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "near",
+    "entity1_type": "Detailed_description",
+    "entity2": "so s",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "near",
+    "entity1_type": "Detailed_description",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "peak",
+    "entity1_type": "Lab_value",
+    "entity2": "so upstate maximal ev",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "peak",
+    "entity1_type": "Lab_value",
+    "entity2": "so s",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "peak",
+    "entity1_type": "Lab_value",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so upstate maximal ev",
+    "entity1_type": "Lab_value",
+    "entity2": "so s",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so upstate maximal ev",
+    "entity1_type": "Lab_value",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+    "entity1": "so s",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "changes",
+    "entity1_type": "Lab_value",
+    "entity2": "so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "changes",
+    "entity1_type": "Lab_value",
+    "entity2": "improvement",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "changes",
+    "entity1_type": "Lab_value",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "changes",
+    "entity1_type": "Lab_value",
+    "entity2": "improvement",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "changes",
+    "entity1_type": "Lab_value",
+    "entity2": "auditory",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "improvement",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "improvement",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "auditory",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "improvement",
+    "entity1_type": "Lab_value",
+    "entity2": "so - spindle complexes",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "improvement",
+    "entity1_type": "Lab_value",
+    "entity2": "auditory",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "improvement",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "so - spindle complexes",
+    "entity1_type": "Sign_symptom",
+    "entity2": "auditory",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+    "entity1": "improvement",
+    "entity1_type": "Lab_value",
+    "entity2": "auditory",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation reliably modulates sleep oscillations when delivered on background activity and during the upstate of SOs.",
+    "entity1": "auditory stimulation re",
+    "entity1_type": "Lab_value",
+    "entity2": "ulates sleep oscillations",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation reliably modulates sleep oscillations when delivered on background activity and during the upstate of SOs.",
+    "entity1": "auditory stimulation re",
+    "entity1_type": "Lab_value",
+    "entity2": "background",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "Auditory stimulation reliably modulates sleep oscillations when delivered on background activity and during the upstate of SOs.",
+    "entity1": "ulates sleep oscillations",
+    "entity1_type": "Sign_symptom",
+    "entity2": "background",
+    "entity2_type": "Detailed_description"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "so",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "event",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "so",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "stimulation paradigm",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "so",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "increase so",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "so",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "so",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "dle complex",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "event",
+    "entity1_type": "Sign_symptom",
+    "entity2": "stimulation paradigm",
+    "entity2_type": "Diagnostic_procedure"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "event",
+    "entity1_type": "Sign_symptom",
+    "entity2": "increase so",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "event",
+    "entity1_type": "Sign_symptom",
+    "entity2": "so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "event",
+    "entity1_type": "Sign_symptom",
+    "entity2": "dle complex",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "stimulation paradigm",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "increase so",
+    "entity2_type": "Lab_value"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "stimulation paradigm",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "stimulation paradigm",
+    "entity1_type": "Diagnostic_procedure",
+    "entity2": "dle complex",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "increase so",
+    "entity1_type": "Lab_value",
+    "entity2": "so",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "increase so",
+    "entity1_type": "Lab_value",
+    "entity2": "dle complex",
+    "entity2_type": "Sign_symptom"
+  },
+  {
+    "pmid": "40462986",
+    "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+    "entity1": "so",
+    "entity1_type": "Sign_symptom",
+    "entity2": "dle complex",
+    "entity2_type": "Sign_symptom"
+  }
+]

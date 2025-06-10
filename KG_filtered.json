@@ -1,0 +1,197 @@
+[
+  {
+    "entity1": "stress pnms",
+    "relation": "Cause-Effect",
+    "entity2": "d"
+  },
+  {
+    "entity1": "net",
+    "relation": "Treatment",
+    "entity2": "anxiety"
+  },
+  {
+    "entity1": "magnetic",
+    "relation": "No-Relation",
+    "entity2": "imaging fm"
+  },
+  {
+    "entity1": "controlled",
+    "relation": "Association",
+    "entity2": "methylphenidate"
+  },
+  {
+    "entity1": "memory consolidation",
+    "relation": "Cause-Effect",
+    "entity2": "ah"
+  },
+  {
+    "entity1": "memory consolidation",
+    "relation": "Cause-Effect",
+    "entity2": "ah"
+  },
+  {
+    "entity1": "slow wave index",
+    "relation": "Cause-Effect",
+    "entity2": "w"
+  },
+  {
+    "entity1": "cp ap",
+    "relation": "Treatment",
+    "entity2": "sleep fragmentation"
+  },
+  {
+    "entity1": "cp ap",
+    "relation": "Treatment",
+    "entity2": "sw"
+  },
+  {
+    "entity1": "sleep fragmentation",
+    "relation": "Treatment",
+    "entity2": "sw"
+  },
+  {
+    "entity1": "memory consolidation",
+    "relation": "Cause-Effect",
+    "entity2": "decreased"
+  },
+  {
+    "entity1": "memory consolidation",
+    "relation": "Cause-Effect",
+    "entity2": "epilepsy"
+  },
+  {
+    "entity1": "decreased",
+    "relation": "Cause-Effect",
+    "entity2": "epilepsy"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "near"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "peak"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so upstate maximal ev"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so s"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  },
+  {
+    "entity1": "so - spindle complexes",
+    "relation": "No-Relation",
+    "entity2": "stimulation"
+  },
+  {
+    "entity1": "so - spindle complexes",
+    "relation": "No-Relation",
+    "entity2": "near"
+  },
+  {
+    "entity1": "so - spindle complexes",
+    "relation": "No-Relation",
+    "entity2": "peak"
+  },
+  {
+    "entity1": "so - spindle complexes",
+    "relation": "No-Relation",
+    "entity2": "so upstate maximal ev"
+  },
+  {
+    "entity1": "so - spindle complexes",
+    "relation": "No-Relation",
+    "entity2": "so s"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "near"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "peak"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so upstate maximal ev"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so s"
+  },
+  {
+    "entity1": "stimulation",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  },
+  {
+    "entity1": "near",
+    "relation": "No-Relation",
+    "entity2": "peak"
+  },
+  {
+    "entity1": "near",
+    "relation": "No-Relation",
+    "entity2": "so upstate maximal ev"
+  },
+  {
+    "entity1": "near",
+    "relation": "No-Relation",
+    "entity2": "so s"
+  },
+  {
+    "entity1": "near",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  },
+  {
+    "entity1": "peak",
+    "relation": "No-Relation",
+    "entity2": "so upstate maximal ev"
+  },
+  {
+    "entity1": "peak",
+    "relation": "No-Relation",
+    "entity2": "so s"
+  },
+  {
+    "entity1": "peak",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  },
+  {
+    "entity1": "so upstate maximal ev",
+    "relation": "No-Relation",
+    "entity2": "so s"
+  },
+  {
+    "entity1": "so upstate maximal ev",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  },
+  {
+    "entity1": "so s",
+    "relation": "No-Relation",
+    "entity2": "so - spindle complexes"
+  }
+]
