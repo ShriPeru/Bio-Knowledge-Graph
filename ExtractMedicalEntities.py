@@ -1,38 +1,30 @@
 import json
+from medcat.cat import CAT
 
-from transformers import pipeline
-from transformers import AutoTokenizer, AutoModelForTokenClassification
+# ✅ Load MedMentions model zip
+cat = CAT.load_model_pack(r"C:\Users\ShriP\Downloads\medmen_wstatus_2021_oct.zip")
 
+with open("publications.json", 'r') as file:
+    papers = json.load(file)['publications']
 
-class EncodeMedicalEntity:
-    medical_entities = []
-    tokenizer = AutoTokenizer.from_pretrained("d4data/biomedical-ner-all")
-    model = AutoModelForTokenClassification.from_pretrained("d4data/biomedical-ner-all")
+output = []
 
-    pipe = pipeline("ner", model=model, tokenizer=tokenizer, aggregation_strategy="simple") # pass device=0 if using gpu
-    results = pipe("""The patient reported no recurrence of palpitations at follow-up 6 months after the ablation.""")
-    print(results)
+for pub in papers:
+    result = cat.get_entities(pub["abstract"])
+    entities = []
+    for k, v in result.items():
+        # entities.append({
+            #json formatted with the stats
+        # })
+        print(v)
+        print()
+        entities.append(v)
+    output.append({
+        "pmid": pub["pmid"],
+        "title": pub["title"],
+        "abstract": pub["abstract"],
+        "entities": entities
+    })
 
-    file_name = 'publications.json'
-
-    with open(file_name, 'r') as file:
-        paper_json = json.load(file)
-    # print(paper_json)
-    store = paper_json['publications']
-
-    for publication in paper_json['publications']:
-        medical_entity = {
-            "pmid": publication['pmid'],
-            "title": publication['title'],
-            "abstract": publication['abstract'],
-            "entities": [{**item, 'score': str(item['score'])} for item in pipe(publication['abstract'] )] 
-            }
-
-        medical_entities.append(medical_entity)
-
-    final_medical_entity = {
-        "topic": paper_json['topic'],
-        "publications": medical_entities
-    }
-    with open("rawMedicalEntities.json", mode="w", encoding="utf-8") as write_file:
-        json.dump(final_medical_entity, write_file, indent = 2)
+with open("MedCAT_Entities.json", "w") as f:
+    json.dump({"topic": "sleep improves memory", "publications": output}, f, indent=2)
