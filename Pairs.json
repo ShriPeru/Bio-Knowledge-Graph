@@ -1,0 +1,1538 @@
+{
+  "topic": "sleep improves memory",
+  "publications": [
+    {
+      "pmid": "40476104",
+      "abstract": "Prenatal maternal stress (PNMS) is increasingly recognised as a contributor to early-life emotional dysregulation through mechanisms such as prenatal stress programming (PNSP). Separation anxiety disorder (SAD) is the most common childhood anxiety condition, with limited treatment options for cases linked to prenatal factors. Neuro Emotional Technique (NET) is a mind-body intervention that targets unresolved emotional stress patterns through physiological and semantic integration. While used clinically in stress-related disorders, NET's application in treating anxiety rooted in prenatal stress is underreported. An eight-year-old girl presented with severe separation anxiety, persistent nightmares, generalised anxiety, oppositional behaviour, and sleep difficulties. The onset of symptoms was hypothesised to be linked to PNMS. Previous interventions, including child psychology and natural remedies, were ineffective. The patient was treated with 11 NET sessions over six weeks. The Spence Children's Anxiety Scale (SCAS) was utilised before and after treatment to assess symptom severity. NET treatment focused on identifying and integrating somatically stored emotional patterns, including in utero experiences. The \"Somatic Imprint Model\" was developed to conceptualise this process, amalgamating concepts we call somatic memory, stress imprinting, emotional conditioning, and trauma echoes. SCAS scores decreased by 25 points (child report) and 17 points (parent report). Improvements were noted in sleep, emotional regulation, independence, and confidence. The treatment was well tolerated with no adverse events. This case suggests that NET may offer therapeutic benefit in children with anxiety linked to prenatal stress, particularly when conventional approaches have been unsuccessful. While causality cannot be inferred from a single case, the magnitude of change observed warrants further investigation through controlled studies examining NET's efficacy and mechanisms in early-life stress contexts.",
+      "sentence_pairs": [
+        {
+          "sentence": "Prenatal maternal stress (PNMS) is increasingly recognised as a contributor to early-life emotional dysregulation through mechanisms such as prenatal stress programming (PNSP).",
+          "entity_pairs": [
+            {
+              "word1": "stress pnms",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.8717086316666667",
+              "word2": "d",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.96003443"
+            }
+          ]
+        },
+        {
+          "sentence": "Separation anxiety disorder (SAD) is the most common childhood anxiety condition, with limited treatment options for cases linked to prenatal factors.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Neuro Emotional Technique (NET) is a mind-body intervention that targets unresolved emotional stress patterns through physiological and semantic integration.",
+          "entity_pairs": [
+            {
+              "word1": "technique net",
+              "entity_group1": "Coreference",
+              "score1": "0.54711552",
+              "word2": "body",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9653959"
+            }
+          ]
+        },
+        {
+          "sentence": "While used clinically in stress-related disorders, NET's application in treating anxiety rooted in prenatal stress is underreported.",
+          "entity_pairs": [
+            {
+              "word1": "net",
+              "entity_group1": "Coreference",
+              "score1": "0.8531505",
+              "word2": "anxiety",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.66694564"
+            }
+          ]
+        },
+        {
+          "sentence": "An eight-year-old girl presented with severe separation anxiety, persistent nightmares, generalised anxiety, oppositional behaviour, and sleep difficulties.",
+          "entity_pairs": [
+            {
+              "word1": "eight - year - old",
+              "entity_group1": "Age",
+              "score1": "0.97307473",
+              "word2": "separation",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.85617375"
+            }
+          ]
+        },
+        {
+          "sentence": "The onset of symptoms was hypothesised to be linked to PNMS.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Previous interventions, including child psychology and natural remedies, were ineffective.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "The patient was treated with 11 NET sessions over six weeks.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "The Spence Children's Anxiety Scale (SCAS) was utilised before and after treatment to assess symptom severity.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "NET treatment focused on identifying and integrating somatically stored emotional patterns, including in utero experiences.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "The \"Somatic Imprint Model\" was developed to conceptualise this process, amalgamating concepts we call somatic memory, stress imprinting, emotional conditioning, and trauma echoes.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "SCAS scores decreased by 25 points (child report) and 17 points (parent report).",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Improvements were noted in sleep, emotional regulation, independence, and confidence.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "The treatment was well tolerated with no adverse events.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "This case suggests that NET may offer therapeutic benefit in children with anxiety linked to prenatal stress, particularly when conventional approaches have been unsuccessful.",
+          "entity_pairs": [
+            {
+              "word1": "net",
+              "entity_group1": "Coreference",
+              "score1": "0.44531742",
+              "word2": "conventional",
+              "entity_group2": "Detailed_description",
+              "score2": "0.82120764"
+            }
+          ]
+        },
+        {
+          "sentence": "While causality cannot be inferred from a single case, the magnitude of change observed warrants further investigation through controlled studies examining NET's efficacy and mechanisms in early-life stress contexts.",
+          "entity_pairs": []
+        }
+      ]
+    },
+    {
+      "pmid": "40475604",
+      "abstract": "Prescription stimulants such as methylphenidate are being used by an increasing portion of the population, primarily children. These potent norepinephrine and dopamine reuptake inhibitors promote wakefulness, suppress appetite, enhance physical performance, and are purported to increase attentional abilities. Prior functional magnetic resonance imaging (fMRI) studies have yielded conflicting results about the effects of stimulants on the brain's attention, action/motor, and salience regions that are difficult to reconcile with their proposed attentional effects. Here, we utilized resting-state fMRI (rs-fMRI) data from the large Adolescent Brain Cognitive Development (ABCD) Study to understand the effects of stimulants on brain functional connectivity (FC) in children ( <i>n</i> = 11,875; 8-11 years old) using network level analysis (NLA). We validated these brain-wide association study (BWAS) findings in a controlled, precision imaging drug trial (PIDT) with highly-sampled (165-210 minutes) healthy adults receiving high-dose methylphenidate (Ritalin, 40 mg). In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression. Connectivity was also changed in the salience (SAL) and parietal memory networks (PMN), which are important for reward-motivated learning and closely linked to dopamine, but not the brain's attention systems (e.g. dorsal attention network, DAN). Stimulant-related differences in FC closely matched the rs-fMRI pattern of getting enough sleep, as well as EEG- and respiration-derived brain maps of arousal. Taking stimulants rescued the effects of sleep deprivation on brain connectivity and school grades. The combined noradrenergic and dopaminergic effects of stimulants may drive brain organization towards a more wakeful and rewarded configuration, explaining improved task effort and persistence without direct effects on attention networks.",
+      "sentence_pairs": [
+        {
+          "sentence": "Prescription stimulants such as methylphenidate are being used by an increasing portion of the population, primarily children.",
+          "entity_pairs": [
+            {
+              "word1": "prescription stimulants",
+              "entity_group1": "Medication",
+              "score1": "0.99113816",
+              "word2": "methylphenidate",
+              "entity_group2": "Medication",
+              "score2": "0.9980959"
+            }
+          ]
+        },
+        {
+          "sentence": "These potent norepinephrine and dopamine reuptake inhibitors promote wakefulness, suppress appetite, enhance physical performance, and are purported to increase attentional abilities.",
+          "entity_pairs": [
+            {
+              "word1": "norepineph",
+              "entity_group1": "Medication",
+              "score1": "0.8912496",
+              "word2": "dopaminereuptakeinhibitors",
+              "entity_group2": "Medication",
+              "score2": "0.96018593"
+            }
+          ]
+        },
+        {
+          "sentence": "Prior functional magnetic resonance imaging (fMRI) studies have yielded conflicting results about the effects of stimulants on the brain's attention, action/motor, and salience regions that are difficult to reconcile with their proposed attentional effects.",
+          "entity_pairs": [
+            {
+              "word1": "magnetic",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.9650211",
+              "word2": "imaging fm",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.9661214"
+            }
+          ]
+        },
+        {
+          "sentence": "Here, we utilized resting-state fMRI (rs-fMRI) data from the large Adolescent Brain Cognitive Development (ABCD) Study to understand the effects of stimulants on brain functional connectivity (FC) in children ( <i>n</i> = 11,875; 8-11 years old) using network level analysis (NLA).",
+          "entity_pairs": [
+            {
+              "word1": "resting state fmri",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8703975083333333",
+              "word2": "children",
+              "entity_group2": "Subject",
+              "score2": "0.6953316"
+            },
+            {
+              "word1": "resting state fmri",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8703975083333333",
+              "word2": "level",
+              "entity_group2": "Detailed_description",
+              "score2": "0.8168996"
+            },
+            {
+              "word1": "children",
+              "entity_group1": "Subject",
+              "score1": "0.6953316",
+              "word2": "level",
+              "entity_group2": "Detailed_description",
+              "score2": "0.8168996"
+            }
+          ]
+        },
+        {
+          "sentence": "We validated these brain-wide association study (BWAS) findings in a controlled, precision imaging drug trial (PIDT) with highly-sampled (165-210 minutes) healthy adults receiving high-dose methylphenidate (Ritalin, 40 mg).",
+          "entity_pairs": [
+            {
+              "word1": "controlled",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8623423",
+              "word2": "methylphenidate",
+              "entity_group2": "Medication",
+              "score2": "0.8914381650000001"
+            }
+          ]
+        },
+        {
+          "sentence": "In both studies, stimulants were associated with altered FC in action and motor regions, matching patterns of norepinephrine transporter expression.",
+          "entity_pairs": [
+            {
+              "word1": "st",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.90250033",
+              "word2": "nts",
+              "entity_group2": "Coreference",
+              "score2": "0.31881833"
+            },
+            {
+              "word1": "st",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.90250033",
+              "word2": "fc",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.96414983"
+            },
+            {
+              "word1": "st",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.90250033",
+              "word2": "nor",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.6829641"
+            },
+            {
+              "word1": "nts",
+              "entity_group1": "Coreference",
+              "score1": "0.31881833",
+              "word2": "fc",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.96414983"
+            },
+            {
+              "word1": "nts",
+              "entity_group1": "Coreference",
+              "score1": "0.31881833",
+              "word2": "nor",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.6829641"
+            },
+            {
+              "word1": "fc",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.96414983",
+              "word2": "nor",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.6829641"
+            }
+          ]
+        },
+        {
+          "sentence": "Connectivity was also changed in the salience (SAL) and parietal memory networks (PMN), which are important for reward-motivated learning and closely linked to dopamine, but not the brain's attention systems (e.g. dorsal attention network, DAN).",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Stimulant-related differences in FC closely matched the rs-fMRI pattern of getting enough sleep, as well as EEG- and respiration-derived brain maps of arousal.",
+          "entity_pairs": [
+            {
+              "word1": "fc",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.89581203",
+              "word2": "rs",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.5735092"
+            }
+          ]
+        },
+        {
+          "sentence": "Taking stimulants rescued the effects of sleep deprivation on brain connectivity and school grades.",
+          "entity_pairs": [
+            {
+              "word1": "stimulants",
+              "entity_group1": "Medication",
+              "score1": "0.8336785",
+              "word2": "sleep",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9538576"
+            }
+          ]
+        },
+        {
+          "sentence": "The combined noradrenergic and dopaminergic effects of stimulants may drive brain organization towards a more wakeful and rewarded configuration, explaining improved task effort and persistence without direct effects on attention networks.",
+          "entity_pairs": []
+        }
+      ]
+    },
+    {
+      "pmid": "40469532",
+      "abstract": "Slow-wave sleep (SWS) plays a crucial role in memory consolidation, yet its disruption in obstructive sleep apnea (OSA) remains poorly understood. This study investigates the relationship between SWS characteristics, nocturnal oxygen desaturation, and memory performance in individuals with sleep disturbances. This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA. SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %). Memory consolidation was assessed pre- and post-sleep using the Word Sequence Learning Test (WSLT), with the WSLT-Memory Index Score (WSLT-MIS) as the primary outcome measure. Multiple linear regression models adjusted for age, BMI, and education were used to analyze associations between sleep parameters and memory outcomes. Higher ODI-3 % and AHI were significantly associated with poorer memory consolidation, as indicated by lower WSLT-MIS scores (p < 0.05). AHI during NREM sleep was more strongly associated with poorer memory consolidation compared to AHI during REM sleep. Conversely, a higher slow-wave index was positively correlated with better WSLT-MIS scores and retention rates (p < 0.05). These findings highlight the critical role of SWS in memory consolidation and the detrimental effects of OSA-related sleep disturbances. While CPAP therapy remains the standard treatment for improving oxygenation and reducing sleep fragmentation in OSA, additional strategies aimed at enhancing SWS may further support cognitive function. Longitudinal studies and neuroimaging approaches are needed to better understand the mechanisms linking SWS enhancement and cognitive health.",
+      "sentence_pairs": [
+        {
+          "sentence": "Slow-wave sleep (SWS) plays a crucial role in memory consolidation, yet its disruption in obstructive sleep apnea (OSA) remains poorly understood.",
+          "entity_pairs": [
+            {
+              "word1": "slow wave",
+              "entity_group1": "Detailed_description",
+              "score1": "0.9809230499999999",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.98456615"
+            }
+          ]
+        },
+        {
+          "sentence": "This study investigates the relationship between SWS characteristics, nocturnal oxygen desaturation, and memory performance in individuals with sleep disturbances.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "This cross-sectional study included 49 participants with memory complaints and sleep disturbances who underwent overnight polysomnography (PSG) and cognitive assessments to determine the presence and severity of OSA.",
+          "entity_pairs": [
+            {
+              "word1": "memory complaints",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.98465955",
+              "word2": "sleep disturbances",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9993751"
+            },
+            {
+              "word1": "memory complaints",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.98465955",
+              "word2": "overnight polysomnography ps",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9950738916666667"
+            },
+            {
+              "word1": "memory complaints",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.98465955",
+              "word2": "cognitive assessments",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.999105"
+            },
+            {
+              "word1": "memory complaints",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.98465955",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9917052"
+            },
+            {
+              "word1": "sleep disturbances",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9993751",
+              "word2": "overnight polysomnography ps",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9950738916666667"
+            },
+            {
+              "word1": "sleep disturbances",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9993751",
+              "word2": "cognitive assessments",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.999105"
+            },
+            {
+              "word1": "sleep disturbances",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9993751",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9917052"
+            },
+            {
+              "word1": "overnight polysomnography ps",
+              "entity_group1": "Detailed_description",
+              "score1": "0.9950738916666667",
+              "word2": "cognitive assessments",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.999105"
+            },
+            {
+              "word1": "overnight polysomnography ps",
+              "entity_group1": "Detailed_description",
+              "score1": "0.9950738916666667",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9917052"
+            },
+            {
+              "word1": "cognitive assessments",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.999105",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9917052"
+            }
+          ]
+        },
+        {
+          "sentence": "SWS parameters, including the slow-wave index, amplitude, and duration, were extracted from PSG data alongside the apnea-hypopnea index (AHI) and oxygen desaturation index (ODI-3 %).",
+          "entity_pairs": [
+            {
+              "word1": "sw",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.9917052",
+              "word2": "psg",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.9830341"
+            },
+            {
+              "word1": "sw",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.9917052",
+              "word2": "oxygen desat",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.99160117"
+            },
+            {
+              "word1": "sw",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.9917052",
+              "word2": "index",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.93707865"
+            },
+            {
+              "word1": "psg",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.9830341",
+              "word2": "oxygen desat",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.99160117"
+            },
+            {
+              "word1": "psg",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.9830341",
+              "word2": "index",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.93707865"
+            },
+            {
+              "word1": "oxygen desat",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99160117",
+              "word2": "index",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.93707865"
+            }
+          ]
+        },
+        {
+          "sentence": "Memory consolidation was assessed pre- and post-sleep using the Word Sequence Learning Test (WSLT), with the WSLT-Memory Index Score (WSLT-MIS) as the primary outcome measure.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Multiple linear regression models adjusted for age, BMI, and education were used to analyze associations between sleep parameters and memory outcomes.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Higher ODI-3 % and AHI were significantly associated with poorer memory consolidation, as indicated by lower WSLT-MIS scores (p < 0.05).",
+          "entity_pairs": [
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.99893475",
+              "word2": "ah",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.98857284"
+            },
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.99893475",
+              "word2": "ah",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.99846137"
+            }
+          ]
+        },
+        {
+          "sentence": "AHI during NREM sleep was more strongly associated with poorer memory consolidation compared to AHI during REM sleep.",
+          "entity_pairs": [
+            {
+              "word1": "ah",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99846137",
+              "word2": "consolidation",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98397106"
+            }
+          ]
+        },
+        {
+          "sentence": "Conversely, a higher slow-wave index was positively correlated with better WSLT-MIS scores and retention rates (p < 0.05).",
+          "entity_pairs": [
+            {
+              "word1": "slow wave index",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.978752285",
+              "word2": "w",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.7780617"
+            }
+          ]
+        },
+        {
+          "sentence": "These findings highlight the critical role of SWS in memory consolidation and the detrimental effects of OSA-related sleep disturbances.",
+          "entity_pairs": [
+            {
+              "word1": "sw",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.9979498",
+              "word2": "memory",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.89656955"
+            }
+          ]
+        },
+        {
+          "sentence": "While CPAP therapy remains the standard treatment for improving oxygenation and reducing sleep fragmentation in OSA, additional strategies aimed at enhancing SWS may further support cognitive function.",
+          "entity_pairs": [
+            {
+              "word1": "cp ap",
+              "entity_group1": "Coreference",
+              "score1": "0.50752435",
+              "word2": "sleep fragmentation",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.99302125"
+            },
+            {
+              "word1": "cp ap",
+              "entity_group1": "Coreference",
+              "score1": "0.50752435",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9976094"
+            },
+            {
+              "word1": "sleep fragmentation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.99302125",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9976094"
+            }
+          ]
+        },
+        {
+          "sentence": "Longitudinal studies and neuroimaging approaches are needed to better understand the mechanisms linking SWS enhancement and cognitive health.",
+          "entity_pairs": [
+            {
+              "word1": "studies",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99329996",
+              "word2": "ne",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.530706"
+            },
+            {
+              "word1": "studies",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99329996",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9929368"
+            },
+            {
+              "word1": "ne",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.530706",
+              "word2": "sw",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9929368"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pmid": "40463895",
+      "abstract": "Benzodiazepines are among the most widely prescribed treatments for insomnia, and can have positive effects on sleep when used for a maximum of 4\u00a0weeks. However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction. In addition, stopping benzodiazepines after long-term use can result in severe withdrawal symptoms. Spain is one of the countries with the most widespread benzodiazepine use. A multidisciplinary approach is crucial for the treatment of insomnia and for preventing benzodiazepine overuse/misuse. The present study provides an updated overview of the epidemiology and use of these drugs in vulnerable populations (adolescents, older adults and people with mental disorders). We also describe deprescribing strategies used in clinical practice and present two case studies to exemplify the complexities of benzodiazepine withdrawal observed in our practice. Finally, proposals are provided for the rational use of benzodiazepines in Spain, targeted to the general population, healthcare professionals, and regulatory authorities, in order to improve the clinical management of insomnia.",
+      "sentence_pairs": [
+        {
+          "sentence": "Benzodiazepines are among the most widely prescribed treatments for insomnia, and can have positive effects on sleep when used for a maximum of 4\u00a0weeks.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "However, benzodiazepines disrupt sleep architecture, and their long-term use leads to negative outcomes, including impairments in memory and attention, increased risk of falls (particularly in the elderly) and car accidents, dependence, and addiction.",
+          "entity_pairs": [
+            {
+              "word1": "benzodiazepine",
+              "entity_group1": "Medication",
+              "score1": "0.9891507",
+              "word2": "benz iazepine",
+              "entity_group2": "Medication",
+              "score2": "0.7886536"
+            },
+            {
+              "word1": "benzodiazepine",
+              "entity_group1": "Medication",
+              "score1": "0.9891507",
+              "word2": "impairment",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9192841"
+            },
+            {
+              "word1": "benzodiazepine",
+              "entity_group1": "Medication",
+              "score1": "0.9891507",
+              "word2": "falls",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.92004544"
+            },
+            {
+              "word1": "benz iazepine",
+              "entity_group1": "Medication",
+              "score1": "0.7886536",
+              "word2": "impairment",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9192841"
+            },
+            {
+              "word1": "benz iazepine",
+              "entity_group1": "Medication",
+              "score1": "0.7886536",
+              "word2": "falls",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.92004544"
+            },
+            {
+              "word1": "impairment",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9192841",
+              "word2": "falls",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.92004544"
+            }
+          ]
+        },
+        {
+          "sentence": "In addition, stopping benzodiazepines after long-term use can result in severe withdrawal symptoms.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Spain is one of the countries with the most widespread benzodiazepine use.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "A multidisciplinary approach is crucial for the treatment of insomnia and for preventing benzodiazepine overuse/misuse.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "The present study provides an updated overview of the epidemiology and use of these drugs in vulnerable populations (adolescents, older adults and people with mental disorders).",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "We also describe deprescribing strategies used in clinical practice and present two case studies to exemplify the complexities of benzodiazepine withdrawal observed in our practice.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Finally, proposals are provided for the rational use of benzodiazepines in Spain, targeted to the general population, healthcare professionals, and regulatory authorities, in order to improve the clinical management of insomnia.",
+          "entity_pairs": []
+        }
+      ]
+    },
+    {
+      "pmid": "40462986",
+      "abstract": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep. Sleep spindles and sleep-dependent memory consolidation are both decreased in Rolandic epilepsy (RE). Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent. We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls. A prospective cross-over study was conducted in children with RE and control. Children completed two nap visits with auditory or sham stimulation. SOs and SO-spindle complexes rates were measured offline using validated detectors. Sleep-dependent memory consolidation was assessed using the motor sequence typing task. Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes. Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001). Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation. Auditory stimulation reliably modulates sleep oscillations when delivered on background activity and during the upstate of SOs. As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+      "sentence_pairs": [
+        {
+          "sentence": "Sleep-dependent memory consolidation is supported by sleep spindles during stages 2 and 3 non-rapid eye movement sleep.",
+          "entity_pairs": [
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.93479323",
+              "word2": "sleep spindles",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9660061"
+            },
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.93479323",
+              "word2": "stages 2 and 3 non rapid eye movement",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9341199000000001"
+            },
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.93479323",
+              "word2": "sleep spindles",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98446727"
+            },
+            {
+              "word1": "sleep spindles",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9660061",
+              "word2": "stages 2 and 3 non rapid eye movement",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9341199000000001"
+            },
+            {
+              "word1": "stages 2 and 3 non rapid eye movement",
+              "entity_group1": "Detailed_description",
+              "score1": "0.9341199000000001",
+              "word2": "sleep spindles",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98446727"
+            }
+          ]
+        },
+        {
+          "sentence": "Sleep spindles and sleep-dependent memory consolidation are both decreased in Rolandic epilepsy (RE).",
+          "entity_pairs": [
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9315181",
+              "word2": "decreased",
+              "entity_group2": "Lab_value",
+              "score2": "0.9298582"
+            },
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9315181",
+              "word2": "epilepsy",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9859679"
+            },
+            {
+              "word1": "decreased",
+              "entity_group1": "Lab_value",
+              "score1": "0.9298582",
+              "word2": "epilepsy",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.9859679"
+            }
+          ]
+        },
+        {
+          "sentence": "Non-invasive auditory stimulation evokes SOs and SO-spindle complexes in healthy adults but the impact on memory consolidation has been inconsistent.",
+          "entity_pairs": [
+            {
+              "word1": "non invasive auditory stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.8230288333333333",
+              "word2": "sos",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98168296"
+            },
+            {
+              "word1": "non invasive auditory stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.8230288333333333",
+              "word2": "so - spindle complexes healthy adults",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.6885297599999999"
+            },
+            {
+              "word1": "non invasive auditory stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.8230288333333333",
+              "word2": "memory",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98624355"
+            },
+            {
+              "word1": "sos",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.98168296",
+              "word2": "so - spindle complexes healthy adults",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.6885297599999999"
+            },
+            {
+              "word1": "sos",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.98168296",
+              "word2": "memory",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98624355"
+            },
+            {
+              "word1": "so - spindle complexes healthy adults",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.6885297599999999",
+              "word2": "memory",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.98624355"
+            }
+          ]
+        },
+        {
+          "sentence": "We investigated the effects of auditory stimulation during sleep on SOs, SO-spindle complexes, and sleep-dependent memory consolidation in children with RE and controls.",
+          "entity_pairs": [
+            {
+              "word1": "auditory",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5992082",
+              "word2": "so so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9298745"
+            },
+            {
+              "word1": "auditory",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5992082",
+              "word2": "sleep",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.48015833"
+            },
+            {
+              "word1": "auditory",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5992082",
+              "word2": "memory consolidation",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9953851"
+            },
+            {
+              "word1": "auditory",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5992082",
+              "word2": "re",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.93617225"
+            },
+            {
+              "word1": "auditory",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5992082",
+              "word2": "auditory stimulation",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.7429289"
+            },
+            {
+              "word1": "so so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9298745",
+              "word2": "sleep",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.48015833"
+            },
+            {
+              "word1": "so so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9298745",
+              "word2": "memory consolidation",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9953851"
+            },
+            {
+              "word1": "so so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9298745",
+              "word2": "re",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.93617225"
+            },
+            {
+              "word1": "so so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9298745",
+              "word2": "auditory stimulation",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.7429289"
+            },
+            {
+              "word1": "sleep",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.48015833",
+              "word2": "memory consolidation",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9953851"
+            },
+            {
+              "word1": "sleep",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.48015833",
+              "word2": "re",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.93617225"
+            },
+            {
+              "word1": "sleep",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.48015833",
+              "word2": "auditory stimulation",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.7429289"
+            },
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9953851",
+              "word2": "re",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.93617225"
+            },
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9953851",
+              "word2": "auditory stimulation",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.7429289"
+            },
+            {
+              "word1": "re",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.93617225",
+              "word2": "auditory stimulation",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.7429289"
+            }
+          ]
+        },
+        {
+          "sentence": "A prospective cross-over study was conducted in children with RE and control.",
+          "entity_pairs": []
+        },
+        {
+          "sentence": "Children completed two nap visits with auditory or sham stimulation.",
+          "entity_pairs": [
+            {
+              "word1": "two nap",
+              "entity_group1": "Lab_value",
+              "score1": "0.74481635",
+              "word2": "sham",
+              "entity_group2": "Disease_disorder",
+              "score2": "0.357087"
+            },
+            {
+              "word1": "two nap",
+              "entity_group1": "Lab_value",
+              "score1": "0.74481635",
+              "word2": "sos",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.86515534"
+            },
+            {
+              "word1": "sham",
+              "entity_group1": "Disease_disorder",
+              "score1": "0.357087",
+              "word2": "sos",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.86515534"
+            }
+          ]
+        },
+        {
+          "sentence": "SOs and SO-spindle complexes rates were measured offline using validated detectors.",
+          "entity_pairs": [
+            {
+              "word1": "sos",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.86515534",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.8832017"
+            },
+            {
+              "word1": "sos",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.86515534",
+              "word2": "off",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9077018"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.8832017",
+              "word2": "off",
+              "entity_group2": "Detailed_description",
+              "score2": "0.9077018"
+            }
+          ]
+        },
+        {
+          "sentence": "Sleep-dependent memory consolidation was assessed using the motor sequence typing task.",
+          "entity_pairs": [
+            {
+              "word1": "memory consolidation",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.94684875",
+              "word2": "so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.8781601"
+            }
+          ]
+        },
+        {
+          "sentence": "Auditory stimulation evoked SOs and SO-spindle complexes broadly with maximal effect over frontal electrodes.",
+          "entity_pairs": [
+            {
+              "word1": "so s",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.89790662",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9662857"
+            },
+            {
+              "word1": "so s",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.89790662",
+              "word2": "maximal",
+              "entity_group2": "Lab_value",
+              "score2": "0.5536101"
+            },
+            {
+              "word1": "so s",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.89790662",
+              "word2": "frontal",
+              "entity_group2": "Detailed_description",
+              "score2": "0.81949186"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9662857",
+              "word2": "maximal",
+              "entity_group2": "Lab_value",
+              "score2": "0.5536101"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9662857",
+              "word2": "frontal",
+              "entity_group2": "Detailed_description",
+              "score2": "0.81949186"
+            },
+            {
+              "word1": "maximal",
+              "entity_group1": "Lab_value",
+              "score1": "0.5536101",
+              "word2": "frontal",
+              "entity_group2": "Detailed_description",
+              "score2": "0.81949186"
+            }
+          ]
+        },
+        {
+          "sentence": "Compared to sham, stimulation delivered during background activity evoked SOs (29.8% increase, p<0.001) and SO-spindle complexes (16.8% increase, p<0.001) and stimulations delivered near the peak of an ongoing SO upstate maximally evoked SOs (51.3% increase, p<0.001) and SO-spindle complexes (32.3% increase, p<0.001).",
+          "entity_pairs": [
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.76757586",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9969799"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.76757586",
+              "word2": "near",
+              "entity_group2": "Detailed_description",
+              "score2": "0.8717557"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.76757586",
+              "word2": "peak",
+              "entity_group2": "Lab_value",
+              "score2": "0.7704425"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.76757586",
+              "word2": "so upstate maximal ev",
+              "entity_group2": "Lab_value",
+              "score2": "0.78572686"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.76757586",
+              "word2": "so s",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.7880056"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.76757586",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9895668"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9969799",
+              "word2": "stimulation",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.99380636"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9969799",
+              "word2": "near",
+              "entity_group2": "Detailed_description",
+              "score2": "0.8717557"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9969799",
+              "word2": "peak",
+              "entity_group2": "Lab_value",
+              "score2": "0.7704425"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9969799",
+              "word2": "so upstate maximal ev",
+              "entity_group2": "Lab_value",
+              "score2": "0.78572686"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9969799",
+              "word2": "so s",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.7880056"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99380636",
+              "word2": "near",
+              "entity_group2": "Detailed_description",
+              "score2": "0.8717557"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99380636",
+              "word2": "peak",
+              "entity_group2": "Lab_value",
+              "score2": "0.7704425"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99380636",
+              "word2": "so upstate maximal ev",
+              "entity_group2": "Lab_value",
+              "score2": "0.78572686"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99380636",
+              "word2": "so s",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.7880056"
+            },
+            {
+              "word1": "stimulation",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.99380636",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9895668"
+            },
+            {
+              "word1": "near",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8717557",
+              "word2": "peak",
+              "entity_group2": "Lab_value",
+              "score2": "0.7704425"
+            },
+            {
+              "word1": "near",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8717557",
+              "word2": "so upstate maximal ev",
+              "entity_group2": "Lab_value",
+              "score2": "0.78572686"
+            },
+            {
+              "word1": "near",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8717557",
+              "word2": "so s",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.7880056"
+            },
+            {
+              "word1": "near",
+              "entity_group1": "Detailed_description",
+              "score1": "0.8717557",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9895668"
+            },
+            {
+              "word1": "peak",
+              "entity_group1": "Lab_value",
+              "score1": "0.7704425",
+              "word2": "so upstate maximal ev",
+              "entity_group2": "Lab_value",
+              "score2": "0.78572686"
+            },
+            {
+              "word1": "peak",
+              "entity_group1": "Lab_value",
+              "score1": "0.7704425",
+              "word2": "so s",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.7880056"
+            },
+            {
+              "word1": "peak",
+              "entity_group1": "Lab_value",
+              "score1": "0.7704425",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9895668"
+            },
+            {
+              "word1": "so upstate maximal ev",
+              "entity_group1": "Lab_value",
+              "score1": "0.78572686",
+              "word2": "so s",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.7880056"
+            },
+            {
+              "word1": "so upstate maximal ev",
+              "entity_group1": "Lab_value",
+              "score1": "0.78572686",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9895668"
+            },
+            {
+              "word1": "so s",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.7880056",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9895668"
+            }
+          ]
+        },
+        {
+          "sentence": "Changes in frontal SO (1.9% improvement per increase in SO/min; p<0.001) and SO-spindle complexes (9.5% improvement per increase in SO-spindle/min) event rates due to auditory stimulation positively predicted changes in sleep-dependent memory consolidation.",
+          "entity_pairs": [
+            {
+              "word1": "changes",
+              "entity_group1": "Lab_value",
+              "score1": "0.9953897",
+              "word2": "so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9764866"
+            },
+            {
+              "word1": "changes",
+              "entity_group1": "Lab_value",
+              "score1": "0.9953897",
+              "word2": "improvement",
+              "entity_group2": "Lab_value",
+              "score2": "0.99942636"
+            },
+            {
+              "word1": "changes",
+              "entity_group1": "Lab_value",
+              "score1": "0.9953897",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.99899864"
+            },
+            {
+              "word1": "changes",
+              "entity_group1": "Lab_value",
+              "score1": "0.9953897",
+              "word2": "improvement",
+              "entity_group2": "Lab_value",
+              "score2": "0.9933674"
+            },
+            {
+              "word1": "changes",
+              "entity_group1": "Lab_value",
+              "score1": "0.9953897",
+              "word2": "auditory",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.79717875"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9764866",
+              "word2": "improvement",
+              "entity_group2": "Lab_value",
+              "score2": "0.99942636"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9764866",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.99899864"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9764866",
+              "word2": "improvement",
+              "entity_group2": "Lab_value",
+              "score2": "0.9933674"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9764866",
+              "word2": "auditory",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.79717875"
+            },
+            {
+              "word1": "improvement",
+              "entity_group1": "Lab_value",
+              "score1": "0.99942636",
+              "word2": "so - spindle complexes",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.99899864"
+            },
+            {
+              "word1": "improvement",
+              "entity_group1": "Lab_value",
+              "score1": "0.99942636",
+              "word2": "auditory",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.79717875"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.99899864",
+              "word2": "improvement",
+              "entity_group2": "Lab_value",
+              "score2": "0.9933674"
+            },
+            {
+              "word1": "so - spindle complexes",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.99899864",
+              "word2": "auditory",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.79717875"
+            },
+            {
+              "word1": "improvement",
+              "entity_group1": "Lab_value",
+              "score1": "0.9933674",
+              "word2": "auditory",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.79717875"
+            }
+          ]
+        },
+        {
+          "sentence": "Auditory stimulation reliably modulates sleep oscillations when delivered on background activity and during the upstate of SOs.",
+          "entity_pairs": [
+            {
+              "word1": "auditory stimulation re",
+              "entity_group1": "Lab_value",
+              "score1": "0.8917204",
+              "word2": "ulates sleep oscillations",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9928428"
+            },
+            {
+              "word1": "auditory stimulation re",
+              "entity_group1": "Lab_value",
+              "score1": "0.8917204",
+              "word2": "background",
+              "entity_group2": "Detailed_description",
+              "score2": "0.6638942"
+            },
+            {
+              "word1": "ulates sleep oscillations",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9928428",
+              "word2": "background",
+              "entity_group2": "Detailed_description",
+              "score2": "0.6638942"
+            }
+          ]
+        },
+        {
+          "sentence": "As increased event rates improve memory consolidation, stimulation paradigms to increase SO and SO-spindle complex rates are required to enhance memory.",
+          "entity_pairs": [
+            {
+              "word1": "so",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5686826",
+              "word2": "event",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.6670576"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5686826",
+              "word2": "stimulation paradigm",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.81693023"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5686826",
+              "word2": "increase so",
+              "entity_group2": "Lab_value",
+              "score2": "0.718624975"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5686826",
+              "word2": "so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9817901"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.5686826",
+              "word2": "dle complex",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.97283435"
+            },
+            {
+              "word1": "event",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.6670576",
+              "word2": "stimulation paradigm",
+              "entity_group2": "Diagnostic_procedure",
+              "score2": "0.81693023"
+            },
+            {
+              "word1": "event",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.6670576",
+              "word2": "increase so",
+              "entity_group2": "Lab_value",
+              "score2": "0.718624975"
+            },
+            {
+              "word1": "event",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.6670576",
+              "word2": "so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9817901"
+            },
+            {
+              "word1": "event",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.6670576",
+              "word2": "dle complex",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.97283435"
+            },
+            {
+              "word1": "stimulation paradigm",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.81693023",
+              "word2": "increase so",
+              "entity_group2": "Lab_value",
+              "score2": "0.718624975"
+            },
+            {
+              "word1": "stimulation paradigm",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.81693023",
+              "word2": "so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9817901"
+            },
+            {
+              "word1": "stimulation paradigm",
+              "entity_group1": "Diagnostic_procedure",
+              "score1": "0.81693023",
+              "word2": "dle complex",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.97283435"
+            },
+            {
+              "word1": "increase so",
+              "entity_group1": "Lab_value",
+              "score1": "0.718624975",
+              "word2": "so",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.9817901"
+            },
+            {
+              "word1": "increase so",
+              "entity_group1": "Lab_value",
+              "score1": "0.718624975",
+              "word2": "dle complex",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.97283435"
+            },
+            {
+              "word1": "so",
+              "entity_group1": "Sign_symptom",
+              "score1": "0.9817901",
+              "word2": "dle complex",
+              "entity_group2": "Sign_symptom",
+              "score2": "0.97283435"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
