@@ -6,7 +6,7 @@ Entrez.email = "your.email@example.com"
 class ExtractData:
     papers = []
     topic = "H2O"
-    handle = Entrez.esearch(db="pubmed", term=topic, retmax=1)
+    handle = Entrez.esearch(db="pubmed", term=topic, retmax=2)
     record = Entrez.read(handle)
     handle.close()
 

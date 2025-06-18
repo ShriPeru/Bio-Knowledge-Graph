@@ -3,6 +3,77 @@ import re
 from collections import defaultdict
 
 
+
+def main():
+    file_name = 'MedCAT_Entities.json'
+
+    # load json
+    with open(file_name, 'r') as file:
+        rawMedicalEntities = json.load(file)
+    store = rawMedicalEntities['publications']
+    publications_filtered_entities = []
+    for publication in store:
+        filtered_list = filter_acc(publication["entities"])
+        filtered_list = ignore_Type(filtered_list)
+        filtered_list = value_conf(filtered_list)
+        filtered_publication = {
+            "pmid": publication["pmid"],
+            "title": publication["title"],
+            "abstract": publication["abstract"],
+            "entities": filtered_list
+        }
+        publications_filtered_entities.append(filtered_publication)
+
+    filtered_medical_entity = {
+        "topic": rawMedicalEntities['topic'],
+        "publications": publications_filtered_entities
+    }
+
+    with open("FilteredMEDCAT.json", mode="w", encoding="utf-8") as write_file:
+        json.dump(filtered_medical_entity, write_file, indent = 2)
+
+def filter_acc(entities, acc_threshold=0.5):
+    """Flatten and filter entities by accuracy."""
+    acc_entities = []
+    for entry in entities:
+        if isinstance(entry, dict):  # handles {"0": {...}, "1": {...}, ...}
+            for entity in entry.values():
+                if float(entity.get("acc", 0)) >= acc_threshold:
+                    acc_entities.append(entity)
+        elif isinstance(entry, list):  # just in case any entry is already a list of entities
+            for entity in entry:
+                if float(entity.get("acc", 0)) >= acc_threshold:
+                    acc_entities.append(entity)
+        else:
+            raise ValueError(f"Unexpected entity structure: {type(entry)}")
+    return acc_entities
+
+
+def ignore_Type(entities, excluded_types=None):
+    """Filter out entities with excluded types."""
+    if excluded_types is None:
+        excluded_types = {
+            "Qualitative Concept", "Temporal Concept", "Idea or Concept", "", "Finding"
+        }
+    nontype_entities = []
+    for entity in entities:
+        if entity.get("types", [""])[0] not in excluded_types:
+            nontype_entities.append(entity)
+    return nontype_entities
+
+def value_conf(entities, conf_threshold=0.85):
+    """Keep only entities that are affirmed and meet confidence threshold."""
+    high_conf_entities = []
+    for entity in entities:
+        status = entity.get("meta_anns", {}).get("Status", {})
+        if status.get("value") == "Affirmed" and float(status.get("confidence", 0)) >= conf_threshold:
+            high_conf_entities.append(entity)
+    return high_conf_entities
+
+if __name__ == "__main__":
+    main()
+
+"""
 def recompute_offsets(publications):
     for pub in publications:
         abstract = pub['abstract']
@@ -213,3 +284,4 @@ with open("FilteredPerPublication.json", mode="w", encoding="utf-8") as write_fi
     json.dump(filtered_publication_level, write_file, indent = 2)
 
 print("Done. Smart merged files generated.")
+"""
