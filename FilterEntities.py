@@ -32,7 +32,7 @@ def main():
     with open("FilteredMEDCAT.json", mode="w", encoding="utf-8") as write_file:
         json.dump(filtered_medical_entity, write_file, indent = 2)
 
-def filter_acc(entities, acc_threshold=0.5):
+def filter_acc(entities, acc_threshold=0.3):
     """Flatten and filter entities by accuracy."""
     acc_entities = []
     for entry in entities:

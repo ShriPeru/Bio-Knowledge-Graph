@@ -5,8 +5,8 @@ Entrez.email = "your.email@example.com"
 
 class ExtractData:
     papers = []
-    topic = "H2O"
-    handle = Entrez.esearch(db="pubmed", term=topic, retmax=2)
+    topic = "does running improve cardio"
+    handle = Entrez.esearch(db="pubmed", term=topic, retmax=20)
     record = Entrez.read(handle)
     handle.close()
 

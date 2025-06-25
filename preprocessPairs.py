@@ -1,7 +1,7 @@
 import json
 
 # Load Pairs.json
-with open('Pairs.json', 'r') as f:
+with open('AssignedEntities.json', 'r') as f:
     data = json.load(f)
 
 extracted_pairs = []

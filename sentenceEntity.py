@@ -23,8 +23,9 @@ class mapSentences:
 
 class SentenceFormation:
     nlp = spacy.load("en_core_sci_sm")
+    # nlp = spacy.load("en_core_sci_sm")
 
-    const_file_name = "FilteredPerPublication.json"
+    const_file_name = "FilteredMEDCAT.json"
 
     with open(const_file_name, 'r') as file:
         publications_file = json.load(file)

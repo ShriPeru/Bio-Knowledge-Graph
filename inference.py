@@ -1,46 +1,38 @@
 import json
 from transformers import pipeline
 
-# Load your Pairs.json file
-with open("Pairs.json", "r") as f:
+# Load UnorderedAssignedPairs.json
+with open("UnorderedAssignedPairs.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# Initialize zero-shot classifier
+# Zero-shot classifier with BioLinkBERT
 classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
 
-# Define some simple relation labels (we keep this very simple)
-labels = ["Cause-Effect", "Treatment", "Association", "No-Relation"]
+labels = ["Cause-Effect", "Treats", "Prevents", "Association", "No-Relation"]
 
 results = []
+for pub in data["publications"]:
+    pmid = pub["pmid"]
+    title = pub.get("title", "")
+    for pair in pub["entity_pairs"]:
+        sentence = pair.get("sentence", pub["abstract"])
+        e1 = pair["entity1"]["pretty_name"]
+        e2 = pair["entity2"]["pretty_name"]
 
-for publication in data['publications']:
-    pmid = publication['pmid']
+        hypothesis = f"There is a {e1}–{e2} relation in this sentence."
 
-    for sentence_data in publication['sentence_pairs']:
-        sentence_text = sentence_data['sentence']
+        output = classifier(sentence, labels)
+        label, score = output["labels"][0], output["scores"][0]
 
-        for pair in sentence_data['entity_pairs']:
-            e1 = pair['word1']
-            e2 = pair['word2']
+        results.append({
+            "pmid": pmid,
+            "title": title,
+            "sentence": sentence,
+            "entity1": e1,
+            "entity2": e2,
+            "relation": label,
+            "confidence": round(score, 4)
+        })
 
-            # Create a simple hypothesis for zero-shot learning
-            hypothesis = f"There is a relation between {e1} and {e2}."
-
-            # Run classification
-            output = classifier(sentence_text, labels)
-
-            # Take top prediction
-            pred_label = output['labels'][0]
-            score = output['scores'][0]
-            results.append({
-                "pmid": pmid,
-                "sentence": sentence_text,
-                "entity1": e1,
-                "entity2": e2,
-                "relation": pred_label,
-                "confidence": score
-            })
-
-# Save results
-with open("ExtractedRelations.json", "w") as f:
+with open("ExtractedRelations.json", "w", encoding="utf-8") as f:
     json.dump(results, f, indent=2)
